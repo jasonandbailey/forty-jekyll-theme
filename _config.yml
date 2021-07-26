@@ -8,7 +8,7 @@ url: https://jasonandbailey.com # the base hostname & protocol for your site
 author: Bailey Steinfadt
 
 # homepage tt@github.com:jasonandbailey/forty-jekyll-theme.gitiles
-tiles-source: _posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # build settings
