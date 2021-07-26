@@ -1,8 +1,6 @@
 # site settings
 title: Jason and Bailey
-subtitle: October 2022
-email: baileysteinfadt@gmail.com
-description: Bailey and Jason are getting married!
+description: October 2022
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://jasonandbailey.com # the base hostname & protocol for your site
 author: Bailey Steinfadt
