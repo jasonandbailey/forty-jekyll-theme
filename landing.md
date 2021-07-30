@@ -2,7 +2,7 @@
 title: Travel and Lodging 
 layout: landing
 description: 'How to get here and where to stay.'
-image: assets/images/amana.jpg
+image: assets/images/lodging.png
 nav-menu: true
 ---
 
