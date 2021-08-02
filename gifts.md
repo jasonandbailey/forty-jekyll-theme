@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Registry
-description: Registry and Gifts
+title: Gifts
+description: We're just happy to celebrate with you!
 image: assets/images/amana.jpg
 nav-menu: true
 ---
