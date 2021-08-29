@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Wedding Locations</h2>
+			<h2>Wedding Location</h2>
 		</header>
 		<p></p>
 	</div>
@@ -22,26 +22,13 @@ nav-menu: true
 <!-- Locations -->
 <section id="two" class="spotlights">
 	<section>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11896.609352171537!2d-91.87963921581431!3d41.80347861302501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87e5ac592b23e3af%3A0x9aaa5812f167d3d9!2sAmana%2C%20IA%2052203!5e0!3m2!1sen!2sus!4v1627853740239!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" alt="Map to Amana Colonies" data-position="center center"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.321622715125!2d-91.86932268478114!3d41.799831478288034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87e5acf697e6e5c1%3A0xabbce159589e40!2sPrice%20Creek%20Event%20Center!5e0!3m2!1sen!2sus!4v1630264643250!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" alt="Map to event venue." data-position="center center"></iframe>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ceremony</h3>
+					<h3>Ceremony and Reception</h3>
 				</header>
-				<p>We're working on reserving a venue. 
-				More information will be posted here as it becomes available.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11896.609352171537!2d-91.87963921581431!3d41.80347861302501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87e5ac592b23e3af%3A0x9aaa5812f167d3d9!2sAmana%2C%20IA%2052203!5e0!3m2!1sen!2sus!4v1627853740239!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" alt="Map to Amana Colonies" data-position="center center"></iframe>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Reception</h3>
-				</header>
-				<p>We're working on reserving a venue. 
-				More information will be posted here as it becomes available.</p>
+				<p>Both the ceremony and the reception will be held at Price Creek Event Center.</p>
 			</div>
 		</div>
 	</section>
