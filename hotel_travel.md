@@ -29,6 +29,7 @@ nav-menu: true
 					<h3>Ceremony and Reception</h3>
 				</header>
 				<p>Both the ceremony and the reception will be held at Price Creek Event Center.</p>
+				<p>Address: 4709 220th Trail, Amana, IA 52203</p>
 			</div>
 		</div>
 	</section>
@@ -94,9 +95,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Amana</h3>
 				</header>
-				<p>All wedding activities are in Amana, Iowa.</p>
+				<p>All wedding activities are in Amana, Iowa. Use the map on the left for detailed directions.</p>
+				<p>From I-80, take exit 225 and go north on Hwy 151.</p>
+				<p>From Hwy 30 in Cedar Rapids, take exit 248 and go south on 151 through Fairfax and Walford.</p>
 				<ul class="actions">
-					<li><a href="https://amanacolonies.com/" class="button">Learn more</a></li>
+					<li><a href="https://amanacolonies.com/" class="button">Learn more about the Amana Colonies</a></li>
 				</ul>
 			</div>
 		</div>
@@ -132,7 +135,26 @@ nav-menu: true
 				<header class="major">
 					<h3>Nearby points of interest</h3>
 				</header>
-				<p>Just in case, here are some fun things Eastern Iowa has to offer.</p>
+				<p>Just in case you're in the area for a few extra days, 
+					here are some fun things Eastern Iowa has to offer.</p>
+				<ul>
+					<li><a href="https://www.kalonaiowa.org/"> Kalona </a> 
+						- Amish village, creamery, general store, and more. 
+					</li>
+					<li><a href="https://www.mvr.usace.army.mil/Missions/Recreation/Coralville-Lake/Recreation/Devonian-Fossil-Gorge/"> 
+						Devonian Fossil Gorge at Coralville Lake.
+						</a>
+					</li>
+					<li>
+						<a href="http://hoover.archives.gov/">
+						Herbert Hoover Presidential Library</a>
+					</li>
+					<li>
+						<a href="http://downtowniowacity.com/">
+						Iowa City Pedestrian Mall
+						</a>
+					</li>
+				</ul>
 			</div>
 		</div>
 	</section>
