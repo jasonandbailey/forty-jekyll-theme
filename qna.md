@@ -22,7 +22,7 @@ nav-menu: true
 		<p>We have included detailed travel info, including how to fly in if 
 		you're from out of state, on the Travel and Lodging page!</p>
 		<ul class="actions">
-			<li><a href="hotel_travel.md" class="button">Travel Info</a></li>
+			<li><a href="hotel_travel.html" class="button">Travel Info</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -30,20 +30,20 @@ nav-menu: true
 		<p>Yes! We're keeping up to date information on the Travel and Lodging 
 		page.</p>
 		<ul class="actions">
-			<li><a href="hotel_travel.md#hotels" class="button">Hotel Info</a></li>
+			<li><a href="hotel_travel.html#hotels" class="button">Hotel Info</a></li>
 		</ul>
 	</div>
 	<hr class="major 12u$" />
 
 	<div class="6u 12u$(small)">
 		<h3>Are children welcome?</h3>
-		<p>They are welcome at both the ceremony and the reception. 
+		<p>Yes! We want the whole family to come celebrate. 
 		We'll have activities available for kids at the reception!</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>What should we wear?</h3>
-		<p>Anything that you're comfortable in. Some activities 
-		may be outside, and October is chilly in Iowa.</p>
+		<p>Anything that you're comfortable in. We plan to have yard games 
+		available outdoors, and October is chilly in Iowa. Bring those layers!</p>
 	</div>
 	<hr class="major 12u$" />
 	<div class="6u 12u$(small)">
@@ -52,7 +52,7 @@ nav-menu: true
 		we're going to get down to one as it is! We will treasure the dessert
 		recipes you bring us! See the Gifts page for more information.</p>
 		<ul class="actions">
-			<li><a href="gifts.md" class="button">Gift Info</a></li>
+			<li><a href="gifts.html" class="button">Gift Info</a></li>
 		</ul>
 	</div>
 <!-- 	<div class="6u$ 12u$(small)">
