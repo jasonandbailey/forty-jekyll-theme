@@ -8,3 +8,7 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
 ![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
+Update packages:
+`bundle update`
+Serve website locally: 
+`bundle exec jekyll serve`
