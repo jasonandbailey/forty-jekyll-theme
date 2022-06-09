@@ -27,13 +27,12 @@ nav-menu: true
 	</div>
 	<hr class="major 12u$" />
 
-    <div class="6u$ 12u$(small)">
+    <div class="6u 12u$(small)">
 		<h3>Extra Cards</h3>
 		<p>Don't worry if you have more than one favorite or the card meets an 
         unfortunate end, we'll have more cards at the reception and can mail 
         more to you when we're back from our honeymoon! </p>
 	</div>
-	<hr class="major 12u$" />
 
 	<div class="6u 12u$(small)">
 		<h3>If you insist...</h3>
@@ -42,6 +41,8 @@ nav-menu: true
 			<li><a href="https://www.theknot.com/us/bailey-steinfadt-and-jason-bentley/registry" target="_blank" class="button">Honeymoon Fund</a></li>
 		</ul>
 	</div>
+	<hr class="major 12u$" />
+
 
 </div>
 
