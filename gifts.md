@@ -20,7 +20,7 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Our Request</h3>
 		<p>We know cake doesn't travel well, and is hard to send in the mail. </p>
-        <p>We're including blank recipe cards in the invitations so you can bring us 
+        <p>We've sent blank recipe cards in the invitations so you can bring us 
         your favorite dessert in a way we can treasure it forever! We would love to get 
         your recipe even if you can't attend in person. </p>
         <p> We'll display any recipes we get with your RVSPs at the reception! </p>
@@ -37,24 +37,12 @@ nav-menu: true
 
 	<div class="6u 12u$(small)">
 		<h3>If you insist...</h3>
-		<p>Participating in this tradition is how we prefer you show your love and celebration in our marriage! But if you insist on further showering us, we will include a way for you to help us have an unforgettable honeymoon experience on this page shortly before the wedding. </p>
+		<p>Participating in this tradition is how we prefer you show your love and celebration in our marriage! But if you insist on further showering us, below a way for you to help us have an unforgettable honeymoon experience.</p>
 	    <ul class="actions">
-			<li><a href="gifts.html" class="button disabled">Honeymoon Fund Link to Come!</a></li>
+			<li><a href="https://www.theknot.com/us/bailey-steinfadt-and-jason-bentley/registry" class="button">Honeymoon Fund</a></li>
 		</ul>
 	</div>
-<!-- 	<div class="6u$ 12u$(small)">
-		<h3>Question</h3>
-		<p>Answer</p>
-	</div>
-	<hr class="major 12u$" />
-	<div class="6u 12u$(small)">
-		<h3>Question</h3>
-		<p>Answer</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Question</h3>
-		<p>Answer</p>
-	</div> -->
+
 </div>
 
 
