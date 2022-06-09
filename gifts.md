@@ -39,7 +39,7 @@ nav-menu: true
 		<h3>If you insist...</h3>
 		<p>Participating in this tradition is how we prefer you show your love and celebration in our marriage! But if you insist on further showering us, below a way for you to help us have an unforgettable honeymoon experience.</p>
 	    <ul class="actions">
-			<li><a href="https://www.theknot.com/us/bailey-steinfadt-and-jason-bentley/registry" class="button">Honeymoon Fund</a></li>
+			<li><a href="https://www.theknot.com/us/bailey-steinfadt-and-jason-bentley/registry" target="_blank" class="button">Honeymoon Fund</a></li>
 		</ul>
 	</div>
 
