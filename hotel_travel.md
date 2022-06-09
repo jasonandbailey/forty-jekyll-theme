@@ -54,26 +54,34 @@ nav-menu: true
 				<header class="major">
 					<h3>Hotel Block Reservations</h3>
 				</header>
-				<p>We're working on reserving a block of rooms at a local hotel. 
-				More information will be posted here as it becomes available.</p>
+				<p>We've reserved a small block of rooms at the Guest House Motel, 
+				which is across the street from the wedding venue.</p>
+				<p>Tell them you're booking for "JASON/BAILEY WEDDING"</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button disabled">Book a Room</a></li>
+					<li><a href="https://www.guest-house-motel.com/" class="button">Guest House Website</a></li>
 				</ul>
+				<p></p>
+			<header class="major">
+				<h3>Nearby Hotels</h3>
+			</header>
+			<p>Hotels in Amana</p>
+			<ul>
+				<li><a href="https://www.dieheimat.com/"> Die Heimat </a></li>
+				<li><a href="https://hotelmillwright.com/"> Hotel Millwright </a></li>
+				<li><a href="https://www.zubershomesteadhotel.com/"> Zuber's Hotel </a></li>
+			</ul>
+			<p>Hotels Nearby</p>
+			<ul>
+				<li><a href="https://www.crestcountryinn.com"> Crest Country Inn </a> - Williamsburg </li>
+				<li><a href="https://www.radissonhotelsamericas.com/en-us/hotels/country-inn-cedar-rapids-airport-ia?cid=a:se+b:gmb+c:amer+i:local+e:cis+d:us+h:IACRAIR"> Country Inn and Suites </a> - Cedar Rapids </li>
+				<li><a href="https://www.choicehotels.com/iowa/north-liberty/sleep-inn-hotels/ia131?mc=llgoxxpx"> Sleep Inn </a> - North Liberty</li>
+			</ul>
+			<p>We learned there's a Ren Faire going on at the same time as the wedding. <br />
+			So hotels in Amana may be filling up quickly and the campgrounds are unlikely to be available.</p>
 			</div>
 		</div>
 	</section>
-	<section>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11896.609352171537!2d-91.87963921581431!3d41.80347861302501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87e5ac592b23e3af%3A0x9aaa5812f167d3d9!2sAmana%2C%20IA%2052203!5e0!3m2!1sen!2sus!4v1627853740239!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" alt="Map to Amana Colonies" data-position="center center"></iframe>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Nearby Hotels</h3>
-				</header>
-				<p>We're working on reserving a block of rooms at a local hotel. 
-				More information will be posted here as it becomes available.</p>
-			</div>
-		</div>
-	</section>
+	
 </section>
 
 <!-- Travel Header -->
@@ -138,6 +146,9 @@ nav-menu: true
 				<p>Just in case you're in the area for a few extra days, 
 					here are some fun things Eastern Iowa has to offer.</p>
 				<ul>
+					<li><a href="https://amanacolonies.com/"> Amana! </a> 
+						- There are many things to see in the Seven Villages! 
+					</li>
 					<li><a href="https://www.kalonaiowa.org/"> Kalona </a> 
 						- Amish village, creamery, general store, and more. 
 					</li>
@@ -153,6 +164,11 @@ nav-menu: true
 						<a href="http://downtowniowacity.com/">
 						Iowa City Pedestrian Mall
 						</a>
+					</li>
+					<li>
+						<a href="https://iowarenfest.com/">
+						Iowa Renaissance Festival
+						</a> - It's just down the block from the wedding! On Saturday and Sunday.
 					</li>
 				</ul>
 			</div>
