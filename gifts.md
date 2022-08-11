@@ -4,6 +4,7 @@ title: Gifts
 description: We're just happy to celebrate with you!
 image: assets/images/gifts.png
 nav-menu: true
+lastmod: 2022-08-11T01:44:40.476Z
 ---
 
 <!-- Main -->
@@ -43,7 +44,9 @@ nav-menu: true
 	</div>
 	<hr class="major 12u$" />
 
-
+	<div class="6u 12u$(small)">
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJxKp7PLo-eRCxcxzClTq_bh4bIgzOIT7ZdqofHiQiUl7zyw/viewform?embedded=true" width="1280" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+	</div>
 </div>
 
 
